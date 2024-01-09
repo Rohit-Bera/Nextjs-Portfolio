@@ -58,20 +58,20 @@ const about = () => {
               </h2>
 
               <p className="font-medium dark:text-light">
-                Hi, I'm Rohit Bera, a web developer and UI/UX designer with a
-                passion for creating beautiful, functional, and user-centered
+                Hi, I&apos;m Rohit Bera, a web developer and UI/UX designer with
+                a passion for creating beautiful, functional, and user-centered
                 digital experiences. With 4 years of experience in the field. I
                 am always looking for new and innovative ways to bring my
-                clients' visions to life
+                client&apos;s visions to life
               </p>
               <p className="font-medium my-4 dark:text-light">
                 I believe that design is about more than just making things look
-                pretty , it's about solving problems and creating intuitive,
-                enjoyable experiences for users.
+                pretty , it&apos;s about solving problems and creating
+                intuitive, enjoyable experiences for users.
               </p>
               <p className="font-medium dark:text-light ">
-                Whether I'm working on a website, mobile app, or other digital
-                product, I bring my commitment to design excellence and
+                Whether I&apos;m working on a website, mobile app, or other
+                digital product, I bring my commitment to design excellence and
                 user-centered thinking to every project I work on. I look
                 forward to the opportunity to bring my skills and passion to
                 your next project.
@@ -89,6 +89,7 @@ const about = () => {
                 className="w-full h-auto rounded-2xl  "
                 priority
                 sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw , 33vw"
+                alt="profile img"
               />
             </div>
 
