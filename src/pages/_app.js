@@ -7,6 +7,7 @@ import Head from "next/head";
 import { useRouter } from "next/router";
 
 const montserrat = Montserrat({
+  weight: "400",
   subsets: ["latin"],
   variable: "--font-mont",
 });
